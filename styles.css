@@ -1,0 +1,40 @@
+.turtle{
+ display:flex;
+ justify-content:center;
+ padding:50px;
+ margin:70px;
+ border:100px solid;
+ width:80px;
+    height:90px;
+ background-color:#66CCFF;
+}
+h1{
+    font-family: 'Merriweather', serif;
+    text-align:center;
+    color:#66CCFF;
+}
+.ex{
+    display:flex;
+ justify-content:center;
+ padding:200px;
+ margin:10px;
+border:200px dashed  #576a96;
+ width:80px;
+height :90px;
+    background-color:#61943a;
+}
+.no{
+    background-color: #d192a5;
+    border:20px ridge red;
+    
+}
+button {
+    background-color: pink;}
+
+button:hover {
+                background-color: orange;
+            }
+
+
+
+
